@@ -1,0 +1,169 @@
+name: Bell Pepper
+path: /com/example/foodwastemanagementsystem/img/vegetables/bell_pepper.png
+price: 15.0
+color: BD3026
+
+name: Bitter Gourd
+path: /com/example/foodwastemanagementsystem/img/vegetables/bitter_gourd.png
+price: 20.0
+color: 52650B
+
+name: Bottle Gourd
+path: /com/example/foodwastemanagementsystem/img/vegetables/bottle_gourd.png
+price: 30.0
+color: 667547
+
+name: Broccoli
+path: /com/example/foodwastemanagementsystem/img/vegetables/broccoli.png
+price: 80.0
+color: 2E3D2E
+
+name: Cabbage
+path: /com/example/foodwastemanagementsystem/img/vegetables/cabbage.png
+price: 30.0
+color: A1C453
+
+name: Carrot
+path: /com/example/foodwastemanagementsystem/img/vegetables/carrot.png
+price: 20.0
+color: D23103
+
+name: Cauliflower
+path: /com/example/foodwastemanagementsystem/img/vegetables/cauliflower.png
+price: 60.0
+color: 728568
+
+name: Celery
+path: /com/example/foodwastemanagementsystem/img/vegetables/celery.png
+price: 50.0
+color: 9DCA2B
+
+name: Chayote
+path: /com/example/foodwastemanagementsystem/img/vegetables/chayote.png
+price: 50.0
+color: B4CD58
+
+name: Chinese Cabbage
+path: /com/example/foodwastemanagementsystem/img/vegetables/chinese_cabbage.png
+price: 20.0
+color: 627D0C
+
+name: Cucumber
+path: /com/example/foodwastemanagementsystem/img/vegetables/cucumber.png
+price: 10.0
+color: 83963C
+
+name: Eggplant
+path: /com/example/foodwastemanagementsystem/img/vegetables/eggplant.png
+price: 10.0
+color: 776575
+
+name: Garlic
+path: /com/example/foodwastemanagementsystem/img/vegetables/garlic.png
+price: 10.0
+color: AEA599
+
+name: Ginger
+path: /com/example/foodwastemanagementsystem/img/vegetables/ginger.png
+price: 20.0
+color: C1935A
+
+name: Green Peas
+path: /com/example/foodwastemanagementsystem/img/vegetables/green_peas.png
+price: 80.0
+color: 59880F
+
+name: Lettuce
+path: /com/example/foodwastemanagementsystem/img/vegetables/lettuce.png
+price: 50.0
+color: 466100
+
+name: Lima Beans
+path: /com/example/foodwastemanagementsystem/img/vegetables/lima_beans.png
+price: 80.0
+color: 223C0A
+
+name: Long Beans
+path: /com/example/foodwastemanagementsystem/img/vegetables/long_beans.png
+price: 20.0
+color: 617928
+
+name: Malunggay
+path: /com/example/foodwastemanagementsystem/img/vegetables/malunggay.png
+price: 10.0
+color: 4A881B
+
+name: Mushroom
+path: /com/example/foodwastemanagementsystem/img/vegetables/mushroom.png
+price: 80.0
+color: 8B7C67
+
+name: Mustard Greens
+path: /com/example/foodwastemanagementsystem/img/vegetables/mustard_greens.png
+price: 20.0
+color: 6B9235
+
+name: Okra
+path: /com/example/foodwastemanagementsystem/img/vegetables/okra.png
+price: 10.0
+color: 457916
+
+name: Onion
+path: /com/example/foodwastemanagementsystem/img/vegetables/onion.png
+price: 10.0
+color: 9C2F45
+
+name: Peanut
+path: /com/example/foodwastemanagementsystem/img/vegetables/peanut.png
+price: 40.0
+color: 623B1F
+
+name: Potato
+path: /com/example/foodwastemanagementsystem/img/vegetables/potato.png
+price: 20.0
+color: A56E38
+
+name: Radish
+path: /com/example/foodwastemanagementsystem/img/vegetables/radish.png
+price: 20.0
+color: 961124
+
+name: Spinach
+path: /com/example/foodwastemanagementsystem/img/vegetables/spinach.png
+price: 20.0
+color: 093001
+
+name: Sponge Gourd
+path: /com/example/foodwastemanagementsystem/img/vegetables/sponge_gourd.png
+price: 15.0
+color: 2D3B1B
+
+name: Squash
+path: /com/example/foodwastemanagementsystem/img/vegetables/squash.png
+price: 15.0
+color: B47E55
+
+name: Sweet Potato
+path: /com/example/foodwastemanagementsystem/img/vegetables/sweet_potato.png
+price: 30.0
+color: 86443F
+
+name: Tomato
+path: /com/example/foodwastemanagementsystem/img/vegetables/tomato.png
+price: 10.0
+color: F46B43
+
+name: Water Spinach
+path: /com/example/foodwastemanagementsystem/img/vegetables/water_spinach.png
+price: 10.0
+color: A6C16F
+
+name: Wax Gourd
+path: /com/example/foodwastemanagementsystem/img/vegetables/wax_gourd.png
+price: 30.0
+color: 86AB58
+
+name: Winged Bean
+path: /com/example/foodwastemanagementsystem/img/vegetables/winged_beans.png
+price: 30.00
+color: 47552A

@@ -1,0 +1,7 @@
+Name                          Quantity            Category            Price     Total     
+Beer                          4                   drinks              55.00     220.00    
+Cherry                        4                   fruits              200.00    800.00    
+Guava                         1                   fruits              10.30     10.30     
+Mango                         1                   fruits              30.00     30.00     
+Beef                          1                   others              360.00    360.00    
+Biscuit                       1                   others              7.00      7.00      

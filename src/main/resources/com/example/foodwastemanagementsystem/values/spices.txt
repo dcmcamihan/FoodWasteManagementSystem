@@ -1,0 +1,79 @@
+name: Bay Leaf
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/bay_leaf.png
+price: 10.0
+color: BD9B57
+
+name: Black Pepper
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/black_pepper.png
+price: 5.0
+color: 775840
+
+name: Calamansi
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/calamansi.png
+price: 2.0
+color: 869860
+
+name: Chili Pepper
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/chili_pepper.png
+price: 5.0
+color: 842727
+
+name: Chives
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/chives.png
+price: 10.0
+color: 244816
+
+name: Cilantro
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/cilantro.png
+price: 10.0
+color: 182A01
+
+name: Dill
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/dill.png
+price: 10.0
+color: 3C581A
+
+name: Green Onions
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/green_onions.png
+price: 10.0
+color: 2B6B1F
+
+name: Lemongrass
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/lemongrass.png
+price: 5.0
+color: B4BB6D
+
+name: Mint
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/mint.png
+price: 10.0
+color: 386E01
+
+name: Oregano
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/oregano.png
+price: 10.0
+color: 83C24F
+
+name: Parsley
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/parsley.png
+price: 10.0
+color: 3D5328
+
+name: Rosemary
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/rosemary.png
+price: 10.0
+color: 85A072
+
+name: Star Anise
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/star_anise.png
+price: 5.0
+color: 3C1108
+
+name: Tamarind
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/tamarind.png
+price: 5.0
+color: 361B1C
+
+name: Turmeric
+path: /com/example/foodwastemanagementsystem/img/herbs_spices/turmeric.png
+price: 10.0
+color: F09102

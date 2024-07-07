@@ -1,0 +1,5 @@
+Name                          Quantity            Category            Price     Total     
+Bell Pepper                   1                   vegetables          15.00     15.00     
+Bitter Gourd                  1                   vegetables          20.00     20.00     
+Bottle Gourd                  1                   vegetables          30.00     30.00     
+Broccoli                      1                   vegetables          80.00     80.00     

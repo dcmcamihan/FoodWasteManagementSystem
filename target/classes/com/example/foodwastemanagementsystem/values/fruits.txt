@@ -1,0 +1,109 @@
+name: Apple
+path: /com/example/foodwastemanagementsystem/img/fruits/apple.png
+price: 20.0
+color: A82E29
+
+name: Avocado
+path: /com/example/foodwastemanagementsystem/img/fruits/avocado.png
+price: 30.0
+color: A9B148
+
+name: Banana
+path: /com/example/foodwastemanagementsystem/img/fruits/banana.png
+price: 5.0
+color: E7C00F
+
+name: Blueberry
+path: /com/example/foodwastemanagementsystem/img/fruits/blueberry.png
+price: 150.0
+color: 5A606A
+
+name: Cantaloupe
+path: /com/example/foodwastemanagementsystem/img/fruits/cantaloupe.png
+price: 60.0
+color: 837051
+
+name: Cherry
+path: /com/example/foodwastemanagementsystem/img/fruits/cherry.png
+price: 200.0
+color: 5F060E
+
+name: Coconut
+path: /com/example/foodwastemanagementsystem/img/fruits/coconut.png
+price: 30.0
+color: A7745B
+
+name: Corn
+path: /com/example/foodwastemanagementsystem/img/fruits/corn.png
+price: 20.0
+color: 8D4E02
+
+name: Dragonfruit
+path: /com/example/foodwastemanagementsystem/img/fruits/dragonfruit.png
+price: 80.0
+color: FA9DBA
+
+name: Grapes
+path: /com/example/foodwastemanagementsystem/img/fruits/grapes.png
+price: 100.0
+color: 291D36
+
+name: Guava
+path: /com/example/foodwastemanagementsystem/img/fruits/guava.png
+price: 10.3
+color: 719D3C
+
+name: Kiwi
+path: /com/example/foodwastemanagementsystem/img/fruits/kiwi.png
+price: 30.0
+color: 6A7324
+
+name: Lemon
+path: /com/example/foodwastemanagementsystem/img/fruits/lemon.png
+price: 15.0
+color: F8CF4B
+
+name: Mango
+path: /com/example/foodwastemanagementsystem/img/fruits/mango.png
+price: 30.0
+color: FFB605
+
+name: Mangosteen
+path: /com/example/foodwastemanagementsystem/img/fruits/mangosteen.png
+price: 50.0
+color: 8F262C
+
+name: Orange
+path: /com/example/foodwastemanagementsystem/img/fruits/orange.png
+price: 20.0
+color: FB5D03
+
+name: Papaya
+path: /com/example/foodwastemanagementsystem/img/fruits/papaya.png
+price: 20.0
+color: F19731
+
+name: Peach
+path: /com/example/foodwastemanagementsystem/img/fruits/peach.png
+price: 30.0
+color: F16C31
+
+name: Pear
+path: /com/example/foodwastemanagementsystem/img/fruits/pear.png
+price: 30.0
+color: DEB629
+
+name: Pomegranate
+path: /com/example/foodwastemanagementsystem/img/fruits/pomegranate.png
+price: 50.0
+color: E41F1C
+
+name: Strawberry
+path: /com/example/foodwastemanagementsystem/img/fruits/strawberry.png
+price: 150.0
+color: 80080C
+
+name: Watermelon
+path: /com/example/foodwastemanagementsystem/img/fruits/watermelon.png
+price: 80.0
+color: 22371D

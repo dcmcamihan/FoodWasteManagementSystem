@@ -1,0 +1,5 @@
+Name                          Quantity            Category            Price     Total     
+Bell Pepper                   1                   vegetables          15.00     15.00     
+Bitter Gourd                  1                   vegetables          20.00     20.00     
+Cauliflower                   1                   vegetables          60.00     60.00     
+Garlic                        4                   vegetables          10.00     40.00     

@@ -1,0 +1,5 @@
+Name                          Quantity            Category            Price     Total     
+Bell Pepper                   100                 vegetables          15.00     1500.00   
+Cauliflower                   3                   vegetables          60.00     180.00    
+Mustard                       1                   others              350.00    350.00    
+MSG                           2                   others              5.00      10.00     

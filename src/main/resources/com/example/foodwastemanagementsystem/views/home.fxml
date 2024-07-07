@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="830.0" prefWidth="1274.0"
+            xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.foodwastemanagementsystem.Controller.HomeController">
+    <children>
+        <VBox layoutY="57.0" prefHeight="782.0" prefWidth="1274.0" style="-fx-background-color: white;">
+            <children>
+                <HBox prefHeight="298.0" prefWidth="1274.0">
+                    <children>
+                        <JFXButton buttonType="RAISED" onAction="#shopping" prefHeight="298.0" prefWidth="471.0" ripplerFill="WHITE" styleClass="bg-form"
+                                   stylesheets="@../values/Home.css" text="Food Shopping" textFill="WHITE">
+                            <font>
+                                <Font size="32.0" />
+                            </font>
+                            <HBox.margin>
+                                <Insets left="90.0" right="150.0" />
+                            </HBox.margin>
+                            <graphic>
+                                <ImageView fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@../img/ButtonIcon/cart.png" />
+                                    </image>
+                                </ImageView>
+                            </graphic>
+                        </JFXButton>
+                        <JFXButton buttonType="RAISED" onAction="#records" prefHeight="466.0" prefWidth="471.0" ripplerFill="WHITE" styleClass="bg-form"
+                                   stylesheets="@../values/Home.css" text="Food Records" textFill="WHITE">
+                            <font>
+                                <Font size="32.0" />
+                            </font>
+                            <graphic>
+                                <ImageView fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@../img/ButtonIcon/records.png" />
+                                    </image>
+                                </ImageView>
+                            </graphic>
+                        </JFXButton>
+                    </children>
+                    <VBox.margin>
+                        <Insets top="50.0" />
+                    </VBox.margin>
+                </HBox>
+                <ImageView fitHeight="389.0" fitWidth="450.0" pickOnBounds="true" preserveRatio="true">
+                    <VBox.margin>
+                        <Insets left="850.0" top="30.0" />
+                    </VBox.margin>
+                    <image>
+                        <Image url="@../img/ButtonIcon/mascot.png" />
+                    </image>
+                </ImageView>
+            </children>
+        </VBox>
+        <AnchorPane prefHeight="58.0" prefWidth="1274.0" style="-fx-background-color: #164a41;">
+            <children>
+                <JFXButton id="btnClose" layoutX="1221.0" layoutY="1.0" onAction="#closeWindow" prefHeight="27.0" prefWidth="6.0" text="X" textFill="WHITE">
+                    <font>
+                        <Font name="System Bold" size="26.0" />
+                    </font>
+                </JFXButton>
+                <Label alignment="CENTER" layoutX="6.0" prefHeight="58.0" prefWidth="109.0" text="Home" textFill="WHITE">
+                    <font>
+                        <Font name="PT Serif" size="25.0" />
+                    </font>
+                </Label>
+            </children>
+        </AnchorPane>
+    </children>
+</AnchorPane>

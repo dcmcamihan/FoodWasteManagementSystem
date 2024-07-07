@@ -1,0 +1,3 @@
+Name                          Quantity            Category            Price     Total     
+Bell Pepper                   1                   vegetables          15.00     15.00     
+Bitter Gourd                  15                  vegetables          20.00     300.00    

@@ -1,0 +1,89 @@
+.search-box{
+    -fx-background-color:#FFFFFF;
+    -fx-background-radius: 100;
+}
+
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+.search-button{
+    -fx-background-color: #828282;
+    -fx-background-radius: 30;
+}
+
+.right-bar{
+    -fx-background-color: #D3D3D3;
+}
+
+.shadow{
+    -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.1), 10.0 , 0.0 , 0.0 ,10.0);
+}
+
+.chosen-fruit-card{
+    -fx-background-color: #F16C31;
+    -fx-background-radius: 30;
+}
+
+.comboBox{
+    -fx-background-color: rgba(255,255,255,0.3);
+    -fx-background-radius: 30;
+}
+
+.add-btn{
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 100;
+}
+
+.veggies-card{
+    -fx-background-image: url('../img/icons/ic_veggies.png');
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 45px 38px;
+    -fx-background-color: #264E49;
+    -fx-background-radius: 10;
+    -fx-background-position: 10px 10px;
+}
+
+.fruits-card {
+    -fx-background-image: url('../img/icons/ic_fruits.png');
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 60px 38px;
+    -fx-background-color: #6F9B3C;
+    -fx-background-radius: 10;
+    -fx-background-position: 10px 10px;
+}
+
+.drinks-card{
+    -fx-background-image: url('../img/icons/ic_drinks.png');
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 60px 38px;
+    -fx-background-color: #E3E566;
+    -fx-background-radius: 10;
+    -fx-background-position: 10px 10px;
+}
+
+.spices-card{
+    -fx-background-image: url('../img/icons/ic_spices.png');
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 45px 38px;
+    -fx-background-color: #A5CF61;
+    -fx-background-radius: 10;
+    -fx-background-position: 10px 10px;
+}
+
+.others-card{
+    -fx-background-image: url('../img/icons/ic_others.png');
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 60px 45px;
+    -fx-background-color: #558257;
+    -fx-background-radius: 10;
+    -fx-background-position: 10px 4px;
+}
+
+.fruit-item{
+    -fx-background-color: #FFFFFF;
+        -fx-background-radius: 30;
+}
+
+
+

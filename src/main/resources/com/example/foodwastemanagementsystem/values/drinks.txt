@@ -1,0 +1,79 @@
+name: Beer
+path: /com/example/foodwastemanagementsystem/img/drinks/beer.png
+price: 55.0
+color: EA8E32
+
+name: Chocolate Drink
+path: /com/example/foodwastemanagementsystem/img/drinks/chocolate_drink.png
+price: 137.0
+color: 4B6440
+
+name: Coffee
+path: /com/example/foodwastemanagementsystem/img/drinks/coffee.png
+price: 12.0
+color: 70594B
+
+name: Energy Drink
+path: /com/example/foodwastemanagementsystem/img/drinks/energy_drink.png
+price: 25.0
+color: 449FD9
+
+name: Fresh Milk
+path: /com/example/foodwastemanagementsystem/img/drinks/fresh_milk.png
+price: 107.0
+color: 87B374
+
+name: Fruit Drink
+path: /com/example/foodwastemanagementsystem/img/drinks/fruit_drink.png
+price: 20.0
+color: 334B36
+
+name: Iced Tea
+path: /com/example/foodwastemanagementsystem/img/drinks/iced_tea.png
+price: 20.0
+color: 1F518B
+
+name: Powdered Milk
+path: /com/example/foodwastemanagementsystem/img/drinks/powdered_milk.png
+price: 249.0
+color: 2BB5E6
+
+name: Probiotic Drink
+path: /com/example/foodwastemanagementsystem/img/drinks/probiotic_drink.png
+price: 15.0
+color: D59D8C
+
+name: Rhum
+path: /com/example/foodwastemanagementsystem/img/drinks/rhum.png
+price: 60.0
+color: F7BF2C
+
+name: Root Beer
+path: /com/example/foodwastemanagementsystem/img/drinks/root_beer.png
+price: 20.0
+color: AF7D4F
+
+name: Soft Drink
+path: /com/example/foodwastemanagementsystem/img/drinks/soft_drink.png
+price: 25.0
+color: A11411
+
+name: Soy Milk
+path: /com/example/foodwastemanagementsystem/img/drinks/soy_milk.png
+price: 20.0
+color: B69783
+
+name: Water
+path: /com/example/foodwastemanagementsystem/img/drinks/water.png
+price: 25.0
+color: 79AAC7
+
+name: Wine
+path: /com/example/foodwastemanagementsystem/img/drinks/wine.png
+price: 389.0
+color: A8525A
+
+name: Yoghurt Drink
+path: /com/example/foodwastemanagementsystem/img/drinks/yoghurt_drink.png
+price: 24.0
+color: AF385E

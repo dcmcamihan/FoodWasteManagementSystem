@@ -1,0 +1,399 @@
+name: Barbecue Sauce
+path: /com/example/foodwastemanagementsystem/img/others/barbecue_sauce.png
+price: 159.0
+color: 979191
+
+name: Chili Garlic
+path: /com/example/foodwastemanagementsystem/img/others/chili_garlic.png
+price: 145.0
+color: 341913
+
+name: Fish Sauce
+path: /com/example/foodwastemanagementsystem/img/others/fish_sauce.png
+price: 53.0
+color: 5D2B21
+
+name: Honey
+path: /com/example/foodwastemanagementsystem/img/others/honey.png
+price: 50.0
+color: 9F6438
+
+name: Hot Sauce
+path: /com/example/foodwastemanagementsystem/img/others/hot_sauce.png
+price: 108.0
+color: 136542
+
+name: Jam
+path: /com/example/foodwastemanagementsystem/img/others/jam.png
+price: 100.0
+color: 845E5D
+
+name: Ketchup
+path: /com/example/foodwastemanagementsystem/img/others/ketchup.png
+price: 70.0
+color: AE3E36
+
+name: Maple Syrup
+path: /com/example/foodwastemanagementsystem/img/others/maple_syrup.png
+price: 88.0
+color: 9D3C29
+
+name: Mayonnaise
+path: /com/example/foodwastemanagementsystem/img/others/mayonnaise.png
+price: 95.0
+color: 30429D
+
+name: MSG
+path: /com/example/foodwastemanagementsystem/img/others/msg.png
+price: 5.0
+color: BA2722
+
+name: Mustard
+path: /com/example/foodwastemanagementsystem/img/others/mustard.png
+price: 350.0
+color: AD935E
+
+name: Oyster Sauce
+path: /com/example/foodwastemanagementsystem/img/others/oyster_sauce.png
+price: 10.0
+color: 2F2B2A
+
+name: Peanut Butter
+path: /com/example/foodwastemanagementsystem/img/others/peanut_butter.png
+price: 80.0
+color: 0E7DA6
+
+name: Salad Dressing
+path: /com/example/foodwastemanagementsystem/img/others/salad_dressing.png
+price: 170.0
+color: D08552
+
+name: Salt & Pepper
+path: /com/example/foodwastemanagementsystem/img/others/salt_pepper.png
+price: 20.0
+color: 1E2321
+
+name: Sarsa
+path: /com/example/foodwastemanagementsystem/img/others/sarsa.png
+price: 50.0
+color: 865E41
+
+name: Seasoning Granules
+path: /com/example/foodwastemanagementsystem/img/others/seasoning_granules.png
+price: 10.0
+color: A49F46
+
+name: Sesame Oil
+path: /com/example/foodwastemanagementsystem/img/others/sesame_oil.png
+price: 100.0
+color: AB7744
+
+name: Shrimp Paste
+path: /com/example/foodwastemanagementsystem/img/others/shrimp_paste.png
+price: 67.0
+color: C3382D
+
+name: Soy Sauce
+path: /com/example/foodwastemanagementsystem/img/others/soy_sauce.png
+price: 25.0
+color: 212126
+
+name: Sugar
+path: /com/example/foodwastemanagementsystem/img/others/sugar.png
+price: 50.0
+color: 7891BF
+
+name: Sweet Chili
+path: /com/example/foodwastemanagementsystem/img/others/sweet_chili.png
+price: 56.0
+color: D25517
+
+name: Teriyaki Sauce
+path: /com/example/foodwastemanagementsystem/img/others/teriyaki_sauce.png
+price: 125.0
+color: 57413B
+
+name: Vinegar
+path: /com/example/foodwastemanagementsystem/img/others/vinegar.png
+price: 57.0
+color: 194323
+
+name: Wasabi
+path: /com/example/foodwastemanagementsystem/img/others/wasabi.png
+price: 300.0
+color: 4A770B
+
+name: All Purpose Cream
+path: /com/example/foodwastemanagementsystem/img/other/all_purpose_cream.png
+price: 60.0
+color: 32408C
+
+name: Anchovies
+path: /com/example/foodwastemanagementsystem/img/other/anchovies.png
+price: 25.0
+color: 7F2D94
+
+name: Bacon
+path: /com/example/foodwastemanagementsystem/img/other/bacon.png
+price: 375.0
+color: D07C64
+
+name: Beef
+path: /com/example/foodwastemanagementsystem/img/other/beef.png
+price: 360.0
+color: B95A4C
+
+name: Beef Loaf
+path: /com/example/foodwastemanagementsystem/img/other/beef_loaf.png
+price: 22.0
+color: A94416
+
+name: Biscuit
+path: /com/example/foodwastemanagementsystem/img/other/biscuit.png
+price: 7.0
+color: D2B865
+
+name: Black Beans
+path: /com/example/foodwastemanagementsystem/img/other/black_beans.png
+price: 50.0
+color: 322E47
+
+name: Bread
+path: /com/example/foodwastemanagementsystem/img/other/bread.png
+price: 35.0
+color: 2D2F80
+
+name: Butter
+path: /com/example/foodwastemanagementsystem/img/other/butter.png
+price: 60.0
+color: E6D88F
+
+name: Carbonara Sauce
+path: /com/example/foodwastemanagementsystem/img/other/carbonara_sauce.png
+price: 190.0
+color: 6A3B37
+
+name: Cheese
+path: /com/example/foodwastemanagementsystem/img/other/cheese.png
+price: 100.0
+color: 5CB8C5
+
+name: Chicken
+path: /com/example/foodwastemanagementsystem/img/other/chicken.png
+price: 170.0
+color: B58170
+
+name: Chicken Nuggets
+path: /com/example/foodwastemanagementsystem/img/other/chicken_nuggets.png
+price: 175.0
+color: D35B3C
+
+name: Chips
+path: /com/example/foodwastemanagementsystem/img/other/chips.png
+price: 15.0
+color: 426825
+
+name: Coconut Cream
+path: /com/example/foodwastemanagementsystem/img/other/coconut_cream.png
+price: 55.0
+color: 273F59
+
+name: Condensed Milk
+path: /com/example/foodwastemanagementsystem/img/other/condensed_milk.png
+price: 35.0
+color: 5998C7
+
+name: Corned Beef
+path: /com/example/foodwastemanagementsystem/img/other/corned_beef.png
+price: 20.0
+color: 3742A4
+
+name: Cup Noodles
+path: /com/example/foodwastemanagementsystem/img/other/cup_noodles.png
+price: 20.0
+color: 332929
+
+name: Dried Fish
+path: /com/example/foodwastemanagementsystem/img/other/dried_fish.png
+price: 30.0
+color: 0F3E82
+
+name: Dumplings
+path: /com/example/foodwastemanagementsystem/img/other/dumplings.png
+price: 50.0
+color: 264B1A
+
+name: Egg
+path: /com/example/foodwastemanagementsystem/img/other/egg.png
+price: 10.0
+color: A29F9F
+
+name: Evaporated Milk
+path: /com/example/foodwastemanagementsystem/img/other/evaporated_milk.png
+price: 35.0
+color: 923F2E
+
+name: Fish Ball
+path: /com/example/foodwastemanagementsystem/img/other/fish_ball.png
+price: 80.0
+color: 6A6D94
+
+name: Ground Pork
+path: /com/example/foodwastemanagementsystem/img/other/ground_pork.png
+price: 250.0
+color: A02725
+
+name: Hotdog
+path: /com/example/foodwastemanagementsystem/img/other/hotdog.png
+price: 243.0
+color: 7C381F
+
+name: Instant Noodles
+path: /com/example/foodwastemanagementsystem/img/other/instant_noodles.png
+price: 10.0
+color: ECC247
+
+name: Kikiam
+path: /com/example/foodwastemanagementsystem/img/other/kikiam.png
+price: 92.0
+color: CAA166
+
+name: Liver Spread
+path: /com/example/foodwastemanagementsystem/img/other/liver_spread.png
+price: 215.0
+color: 4D6DBD
+
+name: Longganisa
+path: /com/example/foodwastemanagementsystem/img/other/longganisa.png
+price: 50.0
+color: 6A1A18
+
+name: Lumpia
+path: /com/example/foodwastemanagementsystem/img/other/lumpia.png
+price: 280.0
+color: C0A070
+
+name: Luncheon Meat
+path: /com/example/foodwastemanagementsystem/img/other/luncheon_meat.png
+price: 87.0
+color: 242951
+
+name: Macaroni
+path: /com/example/foodwastemanagementsystem/img/other/macaroni.png
+price: 106.0
+color: BA9765
+
+name: Margarine
+path: /com/example/foodwastemanagementsystem/img/other/margarine.png
+price: 100.0
+color: DFBF54
+
+name: Milkfish
+path: /com/example/foodwastemanagementsystem/img/other/milkfish.png
+price: 200.0
+color: BB735C
+
+name: Mushroom Soup
+path: /com/example/foodwastemanagementsystem/img/other/mushroom_soup.png
+price: 45.0
+color: B20510
+
+name: Nata de Coco
+path: /com/example/foodwastemanagementsystem/img/other/nata_de_coco.png
+price: 20.0
+color: 3D744C
+
+name: Oatmeal
+path: /com/example/foodwastemanagementsystem/img/other/oatmeal.png
+price: 105.0
+color: B99D7F
+
+name: Oil
+path: /com/example/foodwastemanagementsystem/img/other/oil.png
+price: 98.0
+color: 9F9551
+
+name: Pickles
+path: /com/example/foodwastemanagementsystem/img/other/pickles.png
+price: 20.0
+color: 3D3814
+
+name: Pork & Beans
+path: /com/example/foodwastemanagementsystem/img/other/pork_beans.png
+price: 20.0
+color: AE575B
+
+name: Pork Chop
+path: /com/example/foodwastemanagementsystem/img/other/pork_chop.png
+price: 250.0
+color: D09E8D
+
+name: Rice
+path: /com/example/foodwastemanagementsystem/img/other/rice.png
+price: 1250.0
+color: 305DA7
+
+name: Sardines
+path: /com/example/foodwastemanagementsystem/img/other/sardines.png
+price: 25.0
+color: 5E0E0E
+
+name: Sausage
+path: /com/example/foodwastemanagementsystem/img/other/sausage.png
+price: 215.0
+color: 5B6770
+
+name: Shrimp
+path: /com/example/foodwastemanagementsystem/img/other/shrimp.png
+price: 300.0
+color: F18D49
+
+name: Sinigang Mix
+path: /com/example/foodwastemanagementsystem/img/other/sinigang_mix.png
+price: 10.0
+color: 3C833C
+
+name: Siomai
+path: /com/example/foodwastemanagementsystem/img/other/siomai.png
+price: 118.0
+color: B48B63
+
+name: Spaghetti
+path: /com/example/foodwastemanagementsystem/img/other/spaghetti.png
+price: 80.0
+color: 6D3433
+
+name: Squid
+path: /com/example/foodwastemanagementsystem/img/other/squid.png
+price: 250.0
+color: 6D6A6D
+
+name: Tilapia
+path: /com/example/foodwastemanagementsystem/img/other/tilapia.png
+price: 150.0
+color: 6E6260
+
+name: Tocino
+path: /com/example/foodwastemanagementsystem/img/other/tocino.png
+price: 65.0
+color: 20673E
+
+name: Tomato Sauce
+path: /com/example/foodwastemanagementsystem/img/other/tomato_sauce.png
+price: 50.0
+color: 24A247
+
+name: Tomato Paste
+path: /com/example/foodwastemanagementsystem/img/other/tomato_paste.png
+price: 20.0
+color: 24362A
+
+name: Tuna Flakes
+path: /com/example/foodwastemanagementsystem/img/other/tuna_flakes.png
+price: 20.0
+color: AB9377
+
+name: Yogurt
+path: /com/example/foodwastemanagementsystem/img/other/yogurt.png
+price: 20.0
+color: 486598
